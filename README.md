@@ -1,6 +1,6 @@
 # INFO2180 Lab 1
 
-This is Lab 1 for <Your Name>
+This is Lab 1 for Lenworth Hassel
 
 ## Branching
 
